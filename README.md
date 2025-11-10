@@ -10,7 +10,7 @@ Each task builds upon the previous one, demonstrating key principles in image an
 
 ---
 
-Tasks
+## Tasks
 
 ### **Task 1 – Marr-Hildreth and Canny Edge Detection**
 - Implemented the **Marr–Hildreth** edge detector using:
