@@ -28,10 +28,6 @@ Tasks
 - Applied to both Marr–Hildreth and Canny edge maps from Task 1.
 - Visualized results using random colors for each detected component.
 
-**Outputs:**
-- `img1_connected_marr_hildreth.tif`  
-- `img1_connected_canny.tif`
-
 ---
 
 ### **Task 3 – Iris Segmentation**
